@@ -33,5 +33,5 @@ I haven't confirmed what the gas sensor reading is supposed to be, but I'm guess
 There can be many disconnects from the device. Having too many sensors on or too high power modes can be a culprit. Please use the "Dialog IoT Sensors" -Android\IOS app to configure which sensors are on and at what power.
 
 ## Further reading
-Similar project: [Thanospan/EESTech-Challenge-2018-2019](https://github.com/thanospan/EESTech-Challenge-2018-2019)
-Dialog's own Python sample can be found in [their sensors official page's](https://www.dialog-semiconductor.com/products/da14585-iot-multi-sensor-development-kit) "Raspberry Pi Gateway Script Package"
+- Similar project: [Thanospan/EESTech-Challenge-2018-2019](https://github.com/thanospan/EESTech-Challenge-2018-2019)
+- Dialog's own Python sample can be found in [their sensors official page's](https://www.dialog-semiconductor.com/products/da14585-iot-multi-sensor-development-kit) "Raspberry Pi Gateway Script Package"
